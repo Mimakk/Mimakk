@@ -1,6 +1,6 @@
 ### Hi there! My name is Mina.
 
-I am a Front-End Developer. I am currently working on my personal portfolio projects and learning Django to be a full-stack developer.
+I am a Data Analyst. I am currently working on my personal portfolio projects and learning Ml.
 
 You can reach me from minanilaytezer@gmail.com.
 
