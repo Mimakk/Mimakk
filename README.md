@@ -1,7 +1,5 @@
 ### Hi there! My name is Mina.
 
-I am a Data Analyst. I am currently working on my personal portfolio projects and learning Ml.
-
 You can reach me from minanilaytezer@gmail.com.
 
 <!--
