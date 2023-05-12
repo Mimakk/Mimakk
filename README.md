@@ -2,6 +2,9 @@
 
 You can reach me from minanilaytezer@gmail.com.
 
+<!-- Sometimes I just want to look at my code and cry :) -->
+
+
 <!--
 **Mimakk/Mimakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
